@@ -6,6 +6,7 @@ def main():
     print('4')
     print('5')
     print('6')
+    print('7')
 
 
 if __name__ == '__main__':
